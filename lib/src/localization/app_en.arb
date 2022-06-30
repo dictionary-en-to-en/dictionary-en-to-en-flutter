@@ -1,6 +1,28 @@
 {
-  "appTitle": "dictionary_en_to_en",
+  "appTitle": "Dictionary",
   "@appTitle": {
     "description": "The title of the application"
+  },
+  "searchButton": "Search",
+  "searchPlaceholder": "Search for a word...",
+  "errorTitle": "Something went wrong!",
+  "retryButton": "Try again",
+  "noResultsTitle": "No results found",
+  "noResultsMessage": "No results found for \"{query}\"",
+  "@noResultsMessage": {
+    "placeholders": {
+      "query": {
+        "description": "The search term"
+      }
+    }
+  },
+  "welcomeMessage": "Enter a search query to see results.",
+  "exampleTitle": "Example: {example}",
+  "@exampleTitle": {
+    "placeholders": {
+      "example": {
+        "description": "The example"
+      }
+    }
   }
 }
